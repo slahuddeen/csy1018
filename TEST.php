@@ -12,7 +12,10 @@ color: #51BAA4;
   <body>
 
     <h1>hello world!
-        helloworld2!</h1>
-        <a href="TEST.php">to php</a>
+        php</h1>
+        <?php
+          echo "hi there";
+        ?>
+        <a href="TEST.php">to home</a>
   </body>
 </html>
