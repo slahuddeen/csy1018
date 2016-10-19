@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+}
+body {
+  background: #ffff0;
+  font-family: Arial, serif;
+  color: #990000;
+  text-transform: uppercase;
+  font-size: 10px;
+  text-align: center;
+}
+h1 {
+  letter-spacing: 4px;
+}
